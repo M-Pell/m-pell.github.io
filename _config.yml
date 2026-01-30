@@ -24,7 +24,7 @@ repository               : "M-Pell/m-pell.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Michael Pellerito, Jr."
+  name             : # "Michael Pellerito, Jr."
   pronouns         : # example: "she/her"  
   bio              : "A returning student just enjoying some new challenges"
   location         : "Blacksburg, VA"
